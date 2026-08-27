@@ -11,7 +11,7 @@ Terminal menu navigation
 
 How to Run
 Run the following command in your terminal:
-python calculator.py
+python calculatorcli.py
 
 Concepts Used
 Functions and modular program design
