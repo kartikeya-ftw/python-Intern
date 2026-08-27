@@ -21,8 +21,10 @@ Lists and list slicing
 Console input and string processing
 Exception handling
 
+SCREENSHOTS
+
 ![image alt](https://github.com/kartikeya-ftw/python-Intern/blob/33ecc34122b06961d31e57b6d2b07cec6efc6398/Screenshot%202026-08-27%20213529.png)
 
-![image alt](imageurl)
+![image alt](https://github.com/kartikeya-ftw/python-Intern/blob/e38d5054b9395d0956c31756272beb7061326e80/Screenshot%202026-08-27%20213510.png)
 
-![image alt](imageurl)
+
